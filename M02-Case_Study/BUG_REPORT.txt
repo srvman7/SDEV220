@@ -1,0 +1,12 @@
+Product: Honor Roll/Dean's List Checker
+Version: 1.0
+Platform: Python
+
+Reported by: kgeltmaker@ivytech.edu
+
+Bug Description:
+
+Included a third condition to be tested in order to account for students that fall below the minimum requirements.
+1.) Changed "Honor Roll" condition from "Else" statement to a second "If" statement.
+
+2.) Coded "Else" statement to include students that have fallen below a 3.25 GPA. 
