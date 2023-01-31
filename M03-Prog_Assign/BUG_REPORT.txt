@@ -1,0 +1,9 @@
+Product: 
+Version: 1.0
+Platform: Python version 3.11.1
+
+Reported by: kgeltmaker@ivytech.edu
+
+Bug Description:
+
+1.) 6.2 - "You found it!" print statement doesn't show up.  Reorganized comparisons of variables.  
