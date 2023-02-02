@@ -1,0 +1,9 @@
+Product: List/Functions
+Version: 1.0
+Platform: Python version 3.11.1
+
+Reported by: kgeltmaker@ivytech.edu
+
+Bug Description:
+
+1.) 9.2 - Struggled to print result as one list.  I had to place the list variable before the "for" loop. 
