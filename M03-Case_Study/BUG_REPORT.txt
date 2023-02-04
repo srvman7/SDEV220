@@ -1,0 +1,10 @@
+Product: Vehicle Registry
+Version: 1.0
+Platform: Python version 3.11.1
+
+Reported by: kgeltmaker@ivytech.edu
+
+Bug Description:
+
+1.) Fixed typos.
+2.) Corrected syntax. 
